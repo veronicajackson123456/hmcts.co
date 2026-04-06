@@ -126,9 +126,8 @@ export default function AccessibilityPage() {
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
-              <li className="leading-relaxed">Email: accessibility@hmcts.co</li>
-              <li className="leading-relaxed">Phone: [Insert Phone Number]</li>
-              <li className="leading-relaxed">Postal Address: [Insert Address]</li>
+              <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
+              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Standards & Guidelines</h2>

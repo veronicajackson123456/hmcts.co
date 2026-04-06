@@ -160,10 +160,14 @@ export default function DisclaimerPage() {
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Contact Us</h2>
 
-            <p className="text-gray-700 leading-relaxed">
-              If you have any questions about this Disclaimer, please contact us at support@hmcts.co or visit our Contact
-              page for additional information.
+            <p className="text-gray-700 leading-relaxed mb-6">
+              If you have any questions about this Disclaimer, please contact us:
             </p>
+
+            <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
+              <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
+              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
+            </ul>
           </div>
         </div>
       </main>

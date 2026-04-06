@@ -172,10 +172,8 @@ export default function DataDeletionPage() {
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
-              <li className="leading-relaxed">Email: privacy@hmcts.co or support@hmcts.co</li>
-              <li className="leading-relaxed">Phone: [Insert Phone Number]</li>
-              <li className="leading-relaxed">Postal Address: [Insert Address]</li>
-              <li className="leading-relaxed">Hours: Monday to Friday, 9am to 5pm [Your Timezone]</li>
+              <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
+              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Verification & Security</h2>

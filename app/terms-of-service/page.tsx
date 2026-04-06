@@ -222,7 +222,7 @@ export default function TermsOfServicePage() {
 
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Informal Resolution:</strong> Before initiating formal proceedings, we encourage you to contact us to resolve
-              any disputes informally. Please contact us at support@hmcts.co with details of your concern.
+              any disputes informally. Please contact us at info@hospitalitysoftwaresolutions.com or +1 (555) 123-4567 with details of your concern.
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -259,10 +259,8 @@ export default function TermsOfServicePage() {
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
-              <li className="leading-relaxed">Email: support@hmcts.co</li>
-              <li className="leading-relaxed">Phone: [Insert Phone Number]</li>
-              <li className="leading-relaxed">Postal Address: [Insert Address]</li>
-              <li className="leading-relaxed">Hours: Monday to Friday, 9am to 5pm [Your Timezone]</li>
+              <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
+              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">15. Changes to These Terms</h2>
