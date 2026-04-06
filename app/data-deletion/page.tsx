@@ -173,7 +173,7 @@ export default function DataDeletionPage() {
 
             <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
               <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
-              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
+              <li className="leading-relaxed">Phone: +1 (845) 904-7626</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Verification & Security</h2>

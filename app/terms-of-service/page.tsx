@@ -222,7 +222,7 @@ export default function TermsOfServicePage() {
 
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Informal Resolution:</strong> Before initiating formal proceedings, we encourage you to contact us to resolve
-              any disputes informally. Please contact us at info@hospitalitysoftwaresolutions.com or +1 (555) 123-4567 with details of your concern.
+              any disputes informally.               Please contact us at info@hospitalitysoftwaresolutions.com or +1 (845) 904-7626 with details of your concern.
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -260,7 +260,7 @@ export default function TermsOfServicePage() {
 
             <ul className="list-disc pl-6 mb-6 space-y-3 text-gray-700">
               <li className="leading-relaxed">Email: info@hospitalitysoftwaresolutions.com</li>
-              <li className="leading-relaxed">Phone: +1 (555) 123-4567</li>
+              <li className="leading-relaxed">Phone: +1 (845) 904-7626</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">15. Changes to These Terms</h2>
